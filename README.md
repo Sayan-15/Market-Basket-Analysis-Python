@@ -16,8 +16,10 @@ The project uses a dataset containing transactional data, capturing the items pu
 Market Basket Analysis is performed using the Apriori algorithm, a classic algorithm in association rule mining. The algorithm identifies frequent itemsets and generates association rules based on support, confidence, and lift metrics.
 
 ## Implementation File
-Kaggle - https://www.kaggle.com/code/sayan15/market-basket-analysis
-Github - https://github.com/Sayan-15/Market-Basket-Analysis-Python/blob/main/Market_Basket_Analysis.ipynb
+
+#### Kaggle - https://www.kaggle.com/code/sayan15/market-basket-analysis
+
+#### Github - https://github.com/Sayan-15/Market-Basket-Analysis-Python/blob/main/Market_Basket_Analysis.ipynb
 
 ## Results
 The project results include:
