@@ -28,8 +28,11 @@ The project results include:
 - Visualizations depicting patterns and insights.
 - Recommendations for product placements and marketing strategies.
 
-## Acknowledgments
-Acknowledge any external datasets or libraries used in the project.
+## Tech Stack
+* Python
+* Pandas
+* Plotly
+* Mlxtend
 
 ## Contributions
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
