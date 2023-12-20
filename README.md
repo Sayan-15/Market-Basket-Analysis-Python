@@ -35,4 +35,4 @@ Acknowledge any external datasets or libraries used in the project.
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the [License Name] - see the LICENSE.md file for details.
+This project is licensed under the [GPL3.0] - see the LICENSE.md file for details.
